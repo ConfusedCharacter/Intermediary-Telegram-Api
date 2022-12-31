@@ -47,10 +47,10 @@ NodeJs v.18.12.1 [Download Link](https://nodejs.org/dist/v18.12.1/node-v18.12.1-
 ## Run:
 
 ```bash
-git clone 
+git clone https://github.com/ConfusedCharacter/Intermediary-Telegram-Api
 ```
 ```bash
-node webserver.js
+cd Intermediary-Telegram-Api; npm i axios
 ```
 
 ```bash
