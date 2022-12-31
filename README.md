@@ -11,15 +11,15 @@ install node js on your system and use with following command for run
 Using npm:
 
 ```bash
-$ curl -s https://deb.nodesource.com/setup_17.x | sudo bash
+curl -s https://deb.nodesource.com/setup_17.x | sudo bash
 ```
 
 ```bash
-$ sudo apt install nodejs -y
+sudo apt install nodejs -y
 ```
 
 ```bash
-$ sudo apt install nodejs npm
+sudo apt install nodejs npm
 ```
 
 
@@ -28,15 +28,15 @@ $ sudo apt install nodejs npm
 Using npm:
 
 ```bash
-$ curl -s https://deb.nodesource.com/setup_17.x | sudo bash
+curl -s https://deb.nodesource.com/setup_17.x | sudo bash
 ```
 
 ```bash
-$ sudo yum install nodejs
+sudo yum install nodejs
 ```
 
 ```bash
-$ sudo yum install nodejs npm
+sudo yum install nodejs npm
 ```
 
 ### Install NodeJs on Windows
@@ -47,17 +47,20 @@ NodeJs v.18.12.1 [Download Link](https://nodejs.org/dist/v18.12.1/node-v18.12.1-
 ## Run:
 
 ```bash
-$ npm i axios
+git clone 
+```
+```bash
+node webserver.js
 ```
 
 ```bash
-$ node webserver.js
+node webserver.js
 ```
 
 ⚠️ Don't forget open port 80 
 ## API Reference
 
-```http
+```
   GET /apitel/botxxx/action?xxx
 ```
 
